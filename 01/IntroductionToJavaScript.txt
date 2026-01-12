@@ -1,0 +1,8 @@
+Programming Language of Web Applications
+Java --- X --- JavaScript
+Car --- X --- Carpet
+
+
+Internal Linking : JS Code inside HTML file
+External Linking : JS Code in separate .js file
+
