@@ -1,0 +1,14 @@
+Numbers
+Strings
+Booleans
+NULL
+Undefined 
+Objects
+
+
+string + string -> string
+string + number -> string
+string * num -> string (if possible else NaN)
+
+
+typeof operator

@@ -1,0 +1,2 @@
+Function accepting another function as an argument
+

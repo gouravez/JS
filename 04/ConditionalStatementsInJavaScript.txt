@@ -1,0 +1,33 @@
+if else Ladder ->
+
+if condition:
+    block of code
+else if:
+    block of code
+.
+.
+.
+else:
+    block of code
+
+
+Ternary operator
+condition ? true : false
+
+
+Switch Case
+switch(option) {
+    case 1 : {
+
+    }
+    case 2 : {
+
+    }
+    .
+    .
+    .
+    .
+    default : {
+        
+    }
+}

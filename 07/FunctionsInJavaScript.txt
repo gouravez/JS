@@ -1,0 +1,3 @@
+Block of code to perform a particular task
+
+...args -> spread operator

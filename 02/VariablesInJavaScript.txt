@@ -1,0 +1,17 @@
+DataType varName = value; Strongly Typed Language
+JS -> Loosely Typed Language
+
+
+Naming Convention
+firstname
+first_nme
+FirstName Classes
+firstName
+
+
+var -> global scope (undefined)
+let -> local scope (not defined Error)
+const -> local (can't reassign)
+
+
+most preferred -> const > let > var
