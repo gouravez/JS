@@ -1,0 +1,6 @@
+.forEach() -> doesn't return anything
+.map() -> returns a new array
+.filter()
+.find()
+.slice() 
+.splice() -> returns the deleted elements from the array

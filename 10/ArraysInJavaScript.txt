@@ -1,0 +1,6 @@
+Collection of data items in a single variable
+Not necessarily be homogeneous
+
+.push() -> add an element in the last of array
+.pop() -> removes last entry
+.reverse() -> reverse complete array 

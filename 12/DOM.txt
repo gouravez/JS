@@ -1,0 +1,3 @@
+Document Object Model
+
+every interacton with the broswer is done using the window object

@@ -25,7 +25,7 @@ let age = 20;
 console.log(age);
 
 
-local 
+// local 
 if(true) {
     let a = 20;
 }
