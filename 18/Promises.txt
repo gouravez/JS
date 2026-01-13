@@ -1,0 +1,18 @@
+Asynchronous tasks -> 
+Data fetch from some other source
+
+fetch function : returns Promise 
+(assurity to get the work done later)
+
+Promise -> resolve / reject
+
+Synchronous -> result available immeditely
+Asynchronous -> result available later (doesn't wait and stop execution, go on next code)
+
+async/await [preferred]
+
+
+Another way ->
+.then() -> data
+.catch() -> error
+.finally() -> no matter what
