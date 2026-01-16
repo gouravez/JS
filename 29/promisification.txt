@@ -1,0 +1,2 @@
+Conversion of a function that accepts a callback into a function that returns a promise.
+
